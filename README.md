@@ -21,4 +21,8 @@ Database Used: MySQL (or SQLite — update to match what you actually configured
 
 ## Screenshots
 <img width="1900" height="985" alt="image" src="https://github.com/user-attachments/assets/24fe85c3-04ec-471f-abed-49545a4dd9c2" />
+<img width="1895" height="901" alt="image" src="https://github.com/user-attachments/assets/dbf0a112-2a32-4670-8fb1-b63b7f4f8467" />
+<img width="1893" height="915" alt="image" src="https://github.com/user-attachments/assets/8814e723-21a8-4a40-af0d-ed719aebfa6a" />
+<img width="1869" height="891" alt="image" src="https://github.com/user-attachments/assets/74dbc58b-1780-4fe9-8a97-f9b69d76f7bc" />
+
 
