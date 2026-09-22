@@ -1,8 +1,8 @@
 # Task Manager (Laravel)
 
 Project Code: WST21-PM-2026-SF
-Student Name: suaso, raffy fajardo
-Course & Year: BSIT, [your year level]
+Student Name: Suaso, Rhaffy Jay Fajardo
+Course & Year: BSIT, 2nd Yr - Sec 1
 Database Used: MySQL (or SQLite — update to match what you actually configured)
 
 ## Features
